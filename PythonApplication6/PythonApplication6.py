@@ -35,7 +35,7 @@ MARGIN = 20
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("География мира: Тест")
+pygame.display.set_caption("Урок Географии: Контрольная за 3 класс")
 clock = pygame.time.Clock()
 
 def draw_text(surface, size, color, text, x, y):
